@@ -72,7 +72,7 @@ Value* create_value(double scalar, bool is_temp){
 - `matrix.h`: provides matrix operations for up to three dimensions.
 - `memory.h`: manages memory allocation and deallocation for the project.
 - `train.h`: implements the training loop and associated functions.
-- `micrograd.h`: main header file that includes all other headers.
+- `picograd.h`: main header file that includes all other headers.
 
 ## example usage
 
